@@ -1,1 +1,1 @@
-vless://9c07c15f-817e-4ebd-8452-9e4f51f28425@151.101.3.6:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=sdfgasgiouhda.net&fp=chrome&type=xhttp&allowInsecure=1&sni=
+vless://9c07c15f-817e-4ebd-8452-9e4f51f28425@151.101.3.6:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=fp=chrome&type=xhttp&allowInsecure=1&sni=
